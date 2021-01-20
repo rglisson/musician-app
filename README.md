@@ -6,7 +6,7 @@
 - The goal of the project was to create a CI/CD pipeline on AWS using CodePipeline and Elastic Beanstalk. Our source code is a Node.js application on this github repository. Whenever we commit changes to our application in github, it will trigger our AWS Code Pipeline instance to start the deployment process. CodePipeline will deploy our application to our target webserver, which is setup in Elastic Beanstalk. 
 
 # Application
-- Our application is a Node.js application that provideds read, write, and delete functionality for musicians.
+- Our application is a Node.js application that provides read, write, and delete functionality for musicians.
 - I have the app running on my localhost port 3001. The goal is to deploy this app to an EC2 webserver through Beanstalk.
 
 ![](img/start_server.PNG)
