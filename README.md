@@ -24,6 +24,7 @@
 # CodePipeline
 - Description of service: Automates continuous delivery pipelines for fast and reliable updates
 - CodePipeline will be used to connect our github repo to our pipeline, and then deploy any new commits to Beanstalk.
+
 ![](img/cp_1.PNG)
 ![](img/cp_2.PNG)
 ![](img/cp_3.PNG)
