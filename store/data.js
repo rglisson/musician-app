@@ -36,7 +36,7 @@ module.exports = {
     genre: 'Rock',
   },
   
-  king: {
+  Elvis: {
     firstName: 'Elvis',
     lastName: 'Presley',
     genre: 'Rock',
