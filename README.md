@@ -37,7 +37,7 @@
 
 
 # Results
-- CodePipeline and Beanstalk creates an easy process for a CI/CD application. Beanstalk automatically creates an EC2 instance and S3 bucket behind the scenes. See the images below. The connection to the github repo automates the updates of changes in the scripts within a couple of minutes of the lastest commit.
+- CodePipeline and Beanstalk creates an easy process for a CI/CD application. Beanstalk automatically creates an EC2 instance and S3 bucket behind the scenes. See the images below. The connection to the github repo automates the updates of changes in the scripts within a couple of minutes of the lastest commit. test
 
 ![](img/ec2.PNG)
 
